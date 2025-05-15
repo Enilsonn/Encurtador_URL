@@ -1,0 +1,1 @@
+Encurdator de URL
